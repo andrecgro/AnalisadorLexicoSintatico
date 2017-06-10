@@ -1,2 +1,0 @@
-Erro: linha 3:3
-Fim da analise. Com erros sintaticos.
